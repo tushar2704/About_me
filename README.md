@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tushar2704
-- 👀 I’m interested in International Business expansion
-- 🌱 I’m currently learning MSC2 International Business Management in France
+- 👋 Hi, I’m @Tushar AGGARWAL
+- 👀 I’m interested in International Business and learning languages,
+- 🌱 I’m currently learning Int. MSC International Business Management in France
 - 💞️ I’m looking to collaborate on Internation project to solve business problems
 - 📫 How to reach me @tushar.27041994@gmail.com
 
