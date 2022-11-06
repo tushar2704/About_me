@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushar AGGARWAL, checkout https://grow-ai.in/
+- 👋 Hi, I’m @Tushar AGGARWAL, checkout https://grow-ai.in/,
 - 👀 I’m interested in solving business problems with data and learning languages,t
 - 🌱 I’m currently learning Int. MSC International Business Management in France
 - 💞️ I’m looking to collaborate on Internation project to solve business problems through data
