@@ -1,4 +1,21 @@
-- 👋 Hi, I’m @Tushar AGGARWAL, checkout (https://www.cognitoai.in/), www.medium.com/@tushar_aggarwal 
+- <img src=”https://user-images.githubusercontent.com/66141195/215608751-6d0440a1-ace0-4c60-9e3c-ad5ef3b7398e.gif" alt=”my banner”>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+👋 Hi, I’m @Tushar AGGARWAL, checkout (https://www.cognitoai.in/), www.medium.com/@tushar_aggarwal 
 - 👀 I’m interested in solving business problems with data and learning languages
 - 🌱 I’m currently learning Int. MSC International Business Management in France
 - 💞️ I’m looking to collaborate on Internation project to solve business problems through data
