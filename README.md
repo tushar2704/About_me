@@ -1,27 +1,8 @@
-- <img src="https://user-images.githubusercontent.com/66141195/215608751-6d0440a1-ace0-4c60-9e3c-ad5ef3b7398e.gif" alt=”my banner”>
+![Brown modern travel agency Linkedln banner (1)](https://user-images.githubusercontent.com/66141195/215611478-21fb7b76-3069-4831-8baa-5957d4f0d8a4.gif)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-👋 Hi, I’m @Tushar AGGARWAL, checkout (https://www.cognitoai.in/), www.medium.com/@tushar_aggarwal 
+=👋 Hi, I’m @Tushar AGGARWAL, checkout (kaggle.com/tusharaggarwal27), www.medium.com/@tushar_aggarwal 
 - 👀 I’m interested in solving business problems with data and learning languages
-- 🌱 I’m currently learning Int. MSC International Business Management in France
+- 🌱 I’m completed Int. MSC International Business Management in Paris, France
 - 💞️ I’m looking to collaborate on Internation project to solve business problems through data
 - 📫 How to reach me (https://www.cognitoai.in/), linkedin.com/in/tusharaggarwalinseec or @tushar.inseec@gmail.com,
 
-<!---
-tushar2704/tushar2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
